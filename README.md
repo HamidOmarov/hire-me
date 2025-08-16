@@ -1,4 +1,4 @@
-# Hire Me — Hamid Omarov
+# Hire Me - Hamid Omarov
 
 I build small, reliable AI systems fast. Clear scope, fast delivery, and a live demo you can test immediately.
 
@@ -20,9 +20,9 @@ I build small, reliable AI systems fast. Clear scope, fast delivery, and a live 
 - Voice input/output options
 
 ## Live Projects
-- RAG Dashboard — https://huggingface.co/spaces/HamidOmarov/RAG-Dashboard
-- FastAPI RAG API — https://hamidomarov-fastapi-rag-api.hf.space
-- PDF Q&A Generator — https://huggingface.co/spaces/HamidOmarov/pdf-qa-generator
+- RAG Dashboard - https://huggingface.co/spaces/HamidOmarov/RAG-Dashboard
+- FastAPI RAG API - https://hamidomarov-fastapi-rag-api.hf.space
+- PDF Q&A Generator - https://huggingface.co/spaces/HamidOmarov/pdf-qa-generator
 
 ## How I Work
 - Ship a working version first, polish after
