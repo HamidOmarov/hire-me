@@ -30,7 +30,7 @@ I build small, reliable AI systems fast. Clear scope, fast delivery, and a live 
 - No fix = no charge on quick-fix gigs
 
 ## Contact
-- Upwork: [profile link]
+- Upwork: [[profile link](https://www.upwork.com/freelancers/~01340982df23f6bc11)]
 - Portfolio: https://hamidomarov.github.io
 - GitHub: https://github.com/HamidOmarov
 - Response time: under 2 hours (weekdays)
